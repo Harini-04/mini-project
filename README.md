@@ -41,7 +41,11 @@ The model successfully demonstrates the capability to:
 
 ### 📸 Project Preview
 
+## Workflow Diagram
+![Workflow Diagram](./Images/Workflow.png)
 
+## Output Snapshot
+![Output](./Images/Result.jpg)
 ---
 
 ### 🧾 License
