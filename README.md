@@ -45,7 +45,7 @@ The model successfully demonstrates the capability to:
 <img src="./Images/Workflow.png" width="300" height="400" alt="Workflow">
 
 ## Output Snapshot
-![Output](./Images/Result.jpg)
+<img src="./Images/Result.jpg" width="500" height="300" alt="Result">
 ---
 
 ### 🧾 License
