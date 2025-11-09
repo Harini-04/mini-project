@@ -42,7 +42,7 @@ The model successfully demonstrates the capability to:
 ### 📸 Project Preview
 
 ## Workflow Diagram
-![Workflow Diagram](./Images/Workflow.png)
+<img src="./Images/Workflow.png" width="700" alt="Workflow">
 
 ## Output Snapshot
 ![Output](./Images/Result.jpg)
